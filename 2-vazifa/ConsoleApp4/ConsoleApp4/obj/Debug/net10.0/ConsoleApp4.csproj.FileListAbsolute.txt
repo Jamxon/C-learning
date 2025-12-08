@@ -1,0 +1,14 @@
+/home/jamkhan/Desktop/C#/2-vazifa/ConsoleApp4/ConsoleApp4/bin/Debug/net10.0/ConsoleApp4
+/home/jamkhan/Desktop/C#/2-vazifa/ConsoleApp4/ConsoleApp4/bin/Debug/net10.0/ConsoleApp4.deps.json
+/home/jamkhan/Desktop/C#/2-vazifa/ConsoleApp4/ConsoleApp4/bin/Debug/net10.0/ConsoleApp4.runtimeconfig.json
+/home/jamkhan/Desktop/C#/2-vazifa/ConsoleApp4/ConsoleApp4/bin/Debug/net10.0/ConsoleApp4.dll
+/home/jamkhan/Desktop/C#/2-vazifa/ConsoleApp4/ConsoleApp4/bin/Debug/net10.0/ConsoleApp4.pdb
+/home/jamkhan/Desktop/C#/2-vazifa/ConsoleApp4/ConsoleApp4/obj/Debug/net10.0/ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+/home/jamkhan/Desktop/C#/2-vazifa/ConsoleApp4/ConsoleApp4/obj/Debug/net10.0/ConsoleApp4.AssemblyInfoInputs.cache
+/home/jamkhan/Desktop/C#/2-vazifa/ConsoleApp4/ConsoleApp4/obj/Debug/net10.0/ConsoleApp4.AssemblyInfo.cs
+/home/jamkhan/Desktop/C#/2-vazifa/ConsoleApp4/ConsoleApp4/obj/Debug/net10.0/ConsoleApp4.csproj.CoreCompileInputs.cache
+/home/jamkhan/Desktop/C#/2-vazifa/ConsoleApp4/ConsoleApp4/obj/Debug/net10.0/ConsoleApp4.dll
+/home/jamkhan/Desktop/C#/2-vazifa/ConsoleApp4/ConsoleApp4/obj/Debug/net10.0/refint/ConsoleApp4.dll
+/home/jamkhan/Desktop/C#/2-vazifa/ConsoleApp4/ConsoleApp4/obj/Debug/net10.0/ConsoleApp4.pdb
+/home/jamkhan/Desktop/C#/2-vazifa/ConsoleApp4/ConsoleApp4/obj/Debug/net10.0/ConsoleApp4.genruntimeconfig.cache
+/home/jamkhan/Desktop/C#/2-vazifa/ConsoleApp4/ConsoleApp4/obj/Debug/net10.0/ref/ConsoleApp4.dll

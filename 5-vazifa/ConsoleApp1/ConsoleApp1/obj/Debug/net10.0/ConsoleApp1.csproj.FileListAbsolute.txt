@@ -1,0 +1,14 @@
+/home/jamkhan/Desktop/C#/5-vazifa/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1
+/home/jamkhan/Desktop/C#/5-vazifa/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.deps.json
+/home/jamkhan/Desktop/C#/5-vazifa/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/home/jamkhan/Desktop/C#/5-vazifa/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll
+/home/jamkhan/Desktop/C#/5-vazifa/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.pdb
+/home/jamkhan/Desktop/C#/5-vazifa/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/jamkhan/Desktop/C#/5-vazifa/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/jamkhan/Desktop/C#/5-vazifa/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/home/jamkhan/Desktop/C#/5-vazifa/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/jamkhan/Desktop/C#/5-vazifa/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.dll
+/home/jamkhan/Desktop/C#/5-vazifa/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/home/jamkhan/Desktop/C#/5-vazifa/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
+/home/jamkhan/Desktop/C#/5-vazifa/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/home/jamkhan/Desktop/C#/5-vazifa/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll

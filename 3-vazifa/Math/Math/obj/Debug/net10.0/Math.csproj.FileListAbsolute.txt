@@ -1,0 +1,14 @@
+/home/jamkhan/Desktop/C#/3-vazifa/Math/Math/bin/Debug/net10.0/Math
+/home/jamkhan/Desktop/C#/3-vazifa/Math/Math/bin/Debug/net10.0/Math.deps.json
+/home/jamkhan/Desktop/C#/3-vazifa/Math/Math/bin/Debug/net10.0/Math.runtimeconfig.json
+/home/jamkhan/Desktop/C#/3-vazifa/Math/Math/bin/Debug/net10.0/Math.dll
+/home/jamkhan/Desktop/C#/3-vazifa/Math/Math/bin/Debug/net10.0/Math.pdb
+/home/jamkhan/Desktop/C#/3-vazifa/Math/Math/obj/Debug/net10.0/Math.GeneratedMSBuildEditorConfig.editorconfig
+/home/jamkhan/Desktop/C#/3-vazifa/Math/Math/obj/Debug/net10.0/Math.AssemblyInfoInputs.cache
+/home/jamkhan/Desktop/C#/3-vazifa/Math/Math/obj/Debug/net10.0/Math.AssemblyInfo.cs
+/home/jamkhan/Desktop/C#/3-vazifa/Math/Math/obj/Debug/net10.0/Math.csproj.CoreCompileInputs.cache
+/home/jamkhan/Desktop/C#/3-vazifa/Math/Math/obj/Debug/net10.0/Math.dll
+/home/jamkhan/Desktop/C#/3-vazifa/Math/Math/obj/Debug/net10.0/refint/Math.dll
+/home/jamkhan/Desktop/C#/3-vazifa/Math/Math/obj/Debug/net10.0/Math.pdb
+/home/jamkhan/Desktop/C#/3-vazifa/Math/Math/obj/Debug/net10.0/Math.genruntimeconfig.cache
+/home/jamkhan/Desktop/C#/3-vazifa/Math/Math/obj/Debug/net10.0/ref/Math.dll
