@@ -12,3 +12,4 @@
 /home/jamkhan/Desktop/C# learning/8-vazifa/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
 /home/jamkhan/Desktop/C# learning/8-vazifa/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
 /home/jamkhan/Desktop/C# learning/8-vazifa/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll
+/home/jamkhan/Desktop/C# learning/8-vazifa/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.sourcelink.json
