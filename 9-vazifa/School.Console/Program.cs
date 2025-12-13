@@ -1,4 +1,7 @@
-﻿using School.Domain.Models;
+﻿using System;
+using System.Security.Cryptography;
+using School.Domain.Models;
+
 class Program
 {
     static void Main(string[] args)
